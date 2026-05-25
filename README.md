@@ -71,5 +71,5 @@ Além das emoções, a conveniência é um inimigo constante da segurança. Pol�
 
 Portanto, um sistema só é tão seguro quanto o seu usuário menos cauteloso. A mitigação desse problema não passa pela aquisição de mais softwares, mas sim por educação contínua. A construção de uma cultura de segurança robusta — onde o usuário se sente parte da defesa da empresa e compreende a importância de suas ações diárias — é o único caminho viável para fortalecer este elo e proteger efetivamente o ativo mais valioso do século XXI: a informação.
 
- Referência lnik --> https://pt.wikipedia.org/wiki/A_Rede_Social 
- [ https://www.bbc.com/portuguese/articles/cgr4y2d95y8o ]
+ ## Referência lnik --> 
+A REDE SOCIAL. Wikipédia: a enciclopédia livre. Disponível em: https://pt.wikipedia.org/wiki/A_Rede_Social. 
