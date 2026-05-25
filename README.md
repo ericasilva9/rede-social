@@ -70,4 +70,5 @@ A fragilidade humana não reside necessariamente na falta de inteligência, mas 
 Além das emoções, a conveniência é um inimigo constante da segurança. Políticas de segurança da informação (como senhas longas, trocas frequentes e autenticação em dois fatores) costumam gerar atrito no dia a dia do trabalhador. Na busca por produtividade, os usuários tendem a buscar atalhos perigosos: anotam senhas debaixo do teclado, enviam documentos confidenciais por aplicativos de mensagens não homologados (*Shadow IT*) ou usam a mesma senha para o sistema da empresa e para suas redes sociais pessoais.
 
 Portanto, um sistema só é tão seguro quanto o seu usuário menos cauteloso. A mitigação desse problema não passa pela aquisição de mais softwares, mas sim por educação contínua. A construção de uma cultura de segurança robusta — onde o usuário se sente parte da defesa da empresa e compreende a importância de suas ações diárias — é o único caminho viável para fortalecer este elo e proteger efetivamente o ativo mais valioso do século XXI: a informação.
- 
+
+ Referência lnik --> https://pt.wikipedia.org/wiki/A_Rede_Social
